@@ -39,7 +39,7 @@ import {
     },
     {
       id: "contact",
-      title: "Contact",
+      title: "Contacts",
     },
   ];
   
